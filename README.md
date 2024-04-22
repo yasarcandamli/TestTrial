@@ -1,3 +1,4 @@
 # TestTrial
-Learning create a repository.
+
+Learning Javascript
 Javascript Hipotenüs Hesaplama
